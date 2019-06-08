@@ -47,6 +47,7 @@ holiday_hash[:fall][:columbus_day]=supply_array
 holiday_hash[:winter][:valentines_day]=supply_array
 # holiday_hash
 # holiday_hash[season][holiday_name] = supply_array
+binding.pry
 holiday_hash
 
   # code here
