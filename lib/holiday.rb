@@ -51,7 +51,7 @@ binding.pry
 holiday_hash
 
   # code here
-  # remember to return the updated hash
+  # remember to return the updated hashholiday
 
 end
 
